@@ -1,6 +1,6 @@
 # Sales Performance Analysis
 
-#DESCRIPTION
+DESCRIPTION
 
 Background 
 
@@ -19,7 +19,7 @@ We will be using two datasets here i.e. Sample - Superstore and Sales_Target.
 
 * Sample -Superstore which covers Orders data from 2014 - 2017;
 
-#Within this file you will find the following fields:
+Within this file you will find the following fields:
 
 Field 	Description
 Row ID	Observation Index
@@ -44,7 +44,7 @@ Quantity	The amount or number of a material
 Discount	A deduction from the usual cost of something
 Profit	Obtain a financial advantage or benefit
 
- #Sales-Target will cover the target data;
+Sales-Target will cover the target data;
 
 
 Within this file you will find the following fields:
@@ -58,7 +58,7 @@ Segment	Product Segment (i.e.HomeOffice/Corporate/Consumer etc.)
  
 
 
-#Analysis Tasks
+Analysis Tasks
 
 Use the Saved Sample – Superstore dataset. 
 Create a bullet chart with Category and Segment dimensions and Sales measures. 
